@@ -7,3 +7,8 @@ li,dl {
 h1 {
     font-size: 1.8em;
 }
+
+div {
+    display: flex;
+    justify-content: center;
+}
